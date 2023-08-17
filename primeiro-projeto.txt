@@ -1,4 +1,5 @@
 Esse é um teste
 Portanto, poderá haver errors.
+Alteração na linha 3. Nada demais, funcionalidade é a mesma.
 
-Alteração na linha 4. Nada demais, funcionalidade é a mesma.
+Aprendizado Ok.
